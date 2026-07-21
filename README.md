@@ -1,6 +1,6 @@
-<h1 align="center">👩🏻‍💻 Ana Beatriz</h1>
+# 👩🏻‍💻 Ana Beatriz
 
-<h3 align="center">Desenvolvedora Full Stack</h3>
+**`Desenvolvedora Full Stack`**
 
 Me chamo Ana Beatriz, tenho 22 anos e sou natural de Fortaleza, Ceará.
 
@@ -8,11 +8,9 @@ Atualmente curso **Ciência da Computação** na **Universidade Estadual do Cear
 
 Sou apaixonada por tecnologia, desenvolvimento de software e estou sempre buscando aprender novas tecnologias.
 
----
+<p align="left">
 
-# 🌐 Contato
-
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN/">
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -28,42 +26,58 @@ Sou apaixonada por tecnologia, desenvolvimento de software e estou sempre buscan
 <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
----
-
-# 🤖 Linguagens e Tecnologias
-
-<div style="display:inline_block"><br>
-
-<img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-
-<img align="center" alt="Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-
-<img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-
-<img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
-
-<img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-
-<img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-
-<img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-
-<img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-
-</div>
+</p>
 
 ---
 
-# 📊 Estatísticas
+## 🤖 Linguagens e Tecnologias
 
-<div align="center">
+<img align="left" alt="Java" title="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=imbeatrizgomes&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"/>
+<img align="left" alt="Spring" title="Spring Boot" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
 
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=imbeatrizgomes&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
+<img align="left" alt="JavaScript" title="JavaScript" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=imbeatrizgomes&theme=dracula&hide_border=true"/>
+<img align="left" alt="TypeScript" title="TypeScript" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 
-</div>
+<img align="left" alt="React" title="React" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+
+<img align="left" alt="HTML" title="HTML5" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+
+<img align="left" alt="CSS" title="CSS3" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+
+<img align="left" alt="Git" title="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+
+<br/>
+<br/>
 
 ---
+
+## 📊 Estatísticas
+
+<p>
+
+<img
+align="left"
+height="190"
+src="https://github-stats-extended.vercel.app/api?username=imbeatrizgomes&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
+/>
+
+<img
+align="left"
+height="190"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=imbeatrizgomes&layout=compact&theme=dracula&langs_count=8&hide_border=true"
+/>
+
+</p>
+
+<br clear="both"/>
+
+<p align="left">
+
+<img
+height="190"
+src="https://streak-stats.demolab.com?user=imbeatrizgomes&theme=dracula&hide_border=true"
+/>
+
+</p>
