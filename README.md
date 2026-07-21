@@ -67,9 +67,4 @@ src="https://github-stats-extended.vercel.app/api/top-langs/?username=imbeatrizg
 
 <p align="left">
 
-<img
-height="180"
-src="https://streak-stats.demolab.com?user=imbeatrizgomes&theme=tokyonight&hide_border=true"
-/>
-
 </p>
