@@ -2,11 +2,7 @@
 
 **`Desenvolvedora Full Stack`**
 
-Me chamo Ana Beatriz, tenho 22 anos e sou natural de Fortaleza, Ceará.
-
-Atualmente, curso **Ciência da Computação** na **Universidade Estadual do Ceará (UECE)**.
-
-Tenho interesse em desenvolvimento Full Stack, especialmente utilizando **Java, Spring Boot, React e TypeScript**, e estou sempre buscando aprender novas tecnologias e construir projetos.
+Me chamo Ana Beatriz, tenho 22 anos e sou natural de Fortaleza, Ceará. Atualmente, curso **Ciência da Computação** na **Universidade Estadual do Ceará (UECE)**. Tenho interesse em desenvolvimento Full Stack, especialmente utilizando **Java, Spring Boot, React e TypeScript**, e estou sempre buscando aprender novas tecnologias e construir projetos.
 
 <p align="left">
 
