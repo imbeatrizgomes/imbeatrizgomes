@@ -1,10 +1,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=header"/>
 
-<h1 align="center">👩🏻‍💻 Ana Beatriz</h1>
+<div align="center">
 
-<p align="center">
-Estudante de Ciência da Computação • Desenvolvedora Full Stack
-</p>
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hello, World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="28px">
+
+# 👩🏻‍💻 Ana Beatriz
+
+**Estudante de Ciência da Computação • Desenvolvedora Full Stack**
+
+</div>
 
 ## 👩🏻‍💻 Sobre mim
 
@@ -47,9 +51,15 @@ Tenho interesse em desenvolvimento **Full Stack**, principalmente utilizando **J
 
 <div align="center">
 
-<img height="180" src="https://github-stats-extended.vercel.app/api?username=imbeatrizgomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img
+height="180"
+src="https://github-stats-extended.vercel.app/api?username=imbeatrizgomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
+/>
 
-<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=imbeatrizgomes&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true"/>
+<img
+height="180"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=imbeatrizgomes&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true"
+/>
 
 </div>
 
