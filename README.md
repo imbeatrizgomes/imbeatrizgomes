@@ -1,79 +1,70 @@
-<h2 align="left">👩🏻‍💻 Ana Beatriz</h2>
+<h1 align="center">👩🏻‍💻 Ana Beatriz</h1>
 
-<h6 align="left">Desenvolvedora FullStack</h6>
+<h3 align="center">Desenvolvedora Full Stack</h3>
 
-<p align="left">
-Me chamo Ana Beatriz, tenho 22 anos e sou natural de Fortaleza, Ceará.
-Atualmente, estou cursando Ciência da Computação na Universidade Estadual do Ceará (UECE).
-Sou apaixonada por tecnologia e estou sempre buscando aprender novas ferramentas e desenvolver soluções criativas.
+<p align="center">
+  Me chamo Ana Beatriz, tenho 22 anos e sou natural de Fortaleza, Ceará.<br>
+  Atualmente, curso Ciência da Computação na Universidade Estadual do Ceará (UECE).<br>
+  Sou apaixonada por tecnologia, desenvolvimento de software e estou sempre em busca de novos aprendizados.
 </p>
 
 ---
 
-<h3 align="left">📱 Contato</h3>
+## 🌐 Contato
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINK">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="45" alt="LinkedIn"/>
-  </a>
 
-  <a href="mailto:SEUEMAIL@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="45" alt="Gmail"/>
-  </a>
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-  <a href="https://wa.me/55SEUNUMERO">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="45" height="45" alt="WhatsApp"/>
-  </a>
+<a href="mailto:SEUEMAIL@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-  <a href="https://discord.com/users/SEUID">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" height="45" alt="Discord"/>
-  </a>
+<a href="https://wa.me/55SEUNUMERO" target="_blank">
+<img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+
+<a href="https://discord.gg/SEULINK" target="_blank">
+<img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+
 </div>
 
 ---
 
-<h3 align="left">🤖 Linguagens e Tecnologias</h3>
+## 🤖 Linguagens e Tecnologias
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-  <img width="12"/>
+<div style="display: inline_block"><br>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring"/>
-  <img width="12"/>
+<img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img width="12"/>
+<img align="center" alt="Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
-  <img width="12"/>
+<img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img width="12"/>
+<img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img width="12"/>
+<img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  <img width="12"/>
+<img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+<img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+<img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+
 </div>
 
 ---
 
-<h3 align="left">📊 Estatísticas</h3>
+## 📊 Estatísticas
 
 <div align="center">
 
-<img
-height="180"
-src="https://github-stats-extended.vercel.app/api?username=imbeatrizgomes&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=12"
-/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=imbeatrizgomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
 
-<img
-height="180"
-src="https://github-stats-extended.vercel.app/api/top-langs/?username=imbeatrizgomes&layout=compact&theme=dracula&langs_count=8&hide_border=true&border_radius=12"
-/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=imbeatrizgomes&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
 
 </div>
 
@@ -81,16 +72,13 @@ src="https://github-stats-extended.vercel.app/api/top-langs/?username=imbeatrizg
 
 <div align="center">
 
-<img
-height="180"
-src="https://streak-stats.demolab.com?user=imbeatrizgomes&theme=dracula&hide_border=true"
-/>
+<img height="180em" src="https://streak-stats.demolab.com?user=imbeatrizgomes&theme=dracula&hide_border=true"/>
 
 </div>
 
 ---
 
-<h3 align="left">🐍 Contribuições</h3>
+## 🐍 Contribuições
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/imbeatrizgomes/imbeatrizgomes/snake-output/snake.svg" alt="Snake animation"/>
