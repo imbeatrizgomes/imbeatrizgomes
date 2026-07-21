@@ -16,6 +16,8 @@ Atualmente curso **Ciência da Computação** na **Universidade Estadual do Cear
 
 Tenho interesse em desenvolvimento **Full Stack**, principalmente utilizando **Java, Spring Boot, React e TypeScript**. Estou sempre buscando aprender novas tecnologias, desenvolver projetos e evoluir como desenvolvedora.
 
+---
+
 ## 🛠️ Linguagens e Ferramentas
 
 <div align="center">
@@ -64,5 +66,3 @@ Tenho interesse em desenvolvimento **Full Stack**, principalmente utilizando **J
 <img src="https://raw.githubusercontent.com/imbeatrizgomes/imbeatrizgomes/snake-output/snake-dark.svg" alt="Snake animation"/>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
