@@ -18,10 +18,7 @@ Me chamo Ana Beatriz, tenho 22 anos e sou natural de Fortaleza, Ceará. Atualmen
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-
 </p>
-
----
 
 ## 💻 Linguagens e Tecnologias
 
@@ -37,8 +34,6 @@ Me chamo Ana Beatriz, tenho 22 anos e sou natural de Fortaleza, Ceará. Atualmen
 <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
 </p>
-
----
 
 ## 📊 Estatísticas
 
@@ -63,10 +58,6 @@ src="https://github-stats-extended.vercel.app/api/top-langs/?username=imbeatrizg
 </td>
 </tr>
 </table>
-
----
-
-## 🐍 Contribuições
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/imbeatrizgomes/imbeatrizgomes/snake-output/snake-dark.svg" alt="Snake animation"/>
