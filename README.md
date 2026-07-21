@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hello, World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="28px">
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavanghi/master/gifs/Hi.gif" width="30px"> Hello, World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="28px">
 
 ### Estudante de Ciência da Computação | Desenvolvedora Full Stack
 
@@ -57,7 +57,7 @@ Estou sempre buscando aprender novas tecnologias, desenvolver projetos e evoluir
 
 <img
 height="180"
-src="https://github-stats-extended.vercel.app/api?username=imbeatrizgomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+src="https://github-stats-extended.vercel.app/api?username=BeatrizGomes1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 
 </td>
 
@@ -65,7 +65,7 @@ src="https://github-stats-extended.vercel.app/api?username=imbeatrizgomes&show_i
 
 <img
 height="180"
-src="https://github-stats-extended.vercel.app/api/top-langs/?username=imbeatrizgomes&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true"/>
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=BeatrizGomes1&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true"/>
 
 </td>
 </tr>
@@ -75,6 +75,6 @@ src="https://github-stats-extended.vercel.app/api/top-langs/?username=imbeatrizg
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/imbeatrizgomes/imbeatrizgomes/snake-output/snake-dark.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/BeatrizGomes1/BeatrizGomes1/snake-output/snake-dark.svg" alt="Snake animation"/>
 
 </div>
