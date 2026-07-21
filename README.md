@@ -16,14 +16,6 @@ Atualmente curso **Ciência da Computação** na **Universidade Estadual do Cear
 
 Tenho interesse em desenvolvimento **Full Stack**, principalmente utilizando **Java, Spring Boot, React e TypeScript**. Estou sempre buscando aprender novas tecnologias, desenvolver projetos e evoluir como desenvolvedora.
 
-📍 Fortaleza - CE, Brasil
-
-📧 **anabeatrizsantos3830@gmail.com**
-
-💼 **LinkedIn:** https://www.linkedin.com/in/ana-beatriz-santos-gomes/
-
----
-
 ## 🛠️ Linguagens e Ferramentas
 
 <div align="center">
