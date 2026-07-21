@@ -10,11 +10,11 @@ Tenho interesse em desenvolvimento Full Stack, especialmente utilizando **Java, 
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
+<a href="https://www.linkedin.com/in/ana-beatriz-santos-gomes/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEUEMAIL@gmail.com">
+<a href="mailto:anabeatrizsantos3830@gmail.com">
 <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
