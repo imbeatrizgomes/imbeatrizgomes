@@ -6,8 +6,6 @@
 Estudante de Ciência da Computação • Desenvolvedora Full Stack
 </p>
 
----
-
 ## 👩🏻‍💻 Sobre mim
 
 Olá! Meu nome é **Ana Beatriz**, tenho **22 anos** e sou natural de **Fortaleza - Ceará**.
@@ -15,8 +13,6 @@ Olá! Meu nome é **Ana Beatriz**, tenho **22 anos** e sou natural de **Fortalez
 Atualmente curso **Ciência da Computação** na **Universidade Estadual do Ceará (UECE)**.
 
 Tenho interesse em desenvolvimento **Full Stack**, principalmente utilizando **Java, Spring Boot, React e TypeScript**. Estou sempre buscando aprender novas tecnologias, desenvolver projetos e evoluir como desenvolvedora.
-
----
 
 ## 🛠️ Linguagens e Ferramentas
 
@@ -47,8 +43,6 @@ Tenho interesse em desenvolvimento **Full Stack**, principalmente utilizando **J
 
 </div>
 
----
-
 ## 📊 Estatísticas
 
 <div align="center">
@@ -58,8 +52,6 @@ Tenho interesse em desenvolvimento **Full Stack**, principalmente utilizando **J
 <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=imbeatrizgomes&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
 
 <div align="center">
 
