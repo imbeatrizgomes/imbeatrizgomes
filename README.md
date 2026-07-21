@@ -72,7 +72,5 @@ src="https://github-stats-extended.vercel.app/api/top-langs/?username=imbeatrizg
 ## 🐍 Contribuições
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/imbeatrizgomes/imbeatrizgomes/snake-output/snake.svg" alt="Snake animation"/>
-
+  <img src="https://raw.githubusercontent.com/imbeatrizgomes/imbeatrizgomes/snake-output/snake-dark.svg" alt="Snake animation" />
 </p>
