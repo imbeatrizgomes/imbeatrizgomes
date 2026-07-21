@@ -1,59 +1,97 @@
-<h2 data-importer="text" align="left">👩🏻‍💻 Ana Beatriz</h2>
+<h2 align="left">👩🏻‍💻 Ana Beatriz</h2>
 
-###
+<h6 align="left">Desenvolvedora FullStack</h6>
 
-<h6 data-importer="text" align="left">Desenvolvedora FullStack</h6>
+<p align="left">
+Me chamo Ana Beatriz, tenho 22 anos e sou natural de Fortaleza, Ceará.
+Atualmente, estou cursando Ciência da Computação na Universidade Estadual do Ceará (UECE).
+Sou apaixonada por tecnologia e estou sempre buscando aprender novas ferramentas e desenvolver soluções criativas.
+</p>
 
-###
+---
 
-<p data-importer="text" align="left">Me chamo Ana Beatriz, tenho 22 anos e sou natural de Fortaleza, Ceará. Atualmente, estou cursando Ciência da Computação na Universidade Estadual do Ceará - UECE.</p>
+<h3 align="left">📱 Contato</h3>
 
-###
+<div align="left">
+  <a href="https://www.linkedin.com/in/SEU-LINK">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="45" alt="LinkedIn"/>
+  </a>
 
-<div data-importer="socials" align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="mailto:SEUEMAIL@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="45" alt="Gmail"/>
+  </a>
+
+  <a href="https://wa.me/55SEUNUMERO">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="45" height="45" alt="WhatsApp"/>
+  </a>
+
+  <a href="https://discord.com/users/SEUID">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" height="45" alt="Discord"/>
+  </a>
 </div>
 
-###
+---
 
-<h4 data-importer="text" align="left">🤖 Linguagens e Tecnologias</h4>
+<h3 align="left">🤖 Linguagens e Tecnologias</h3>
 
-###
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img width="12"/>
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring"/>
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img width="12"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
 </div>
 
-###
+---
 
-<h4 data-importer="text" align="left">📊 Estatísticas</h4>
+<h3 align="left">📊 Estatísticas</h3>
 
-###
+<div align="center">
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/imbeatrizgomes/imbeatrizgomes/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/imbeatrizgomes/imbeatrizgomes/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<img
+height="180"
+src="https://github-stats-extended.vercel.app/api?username=imbeatrizgomes&theme=dracula&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=12"
+/>
+
+<img
+height="180"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=imbeatrizgomes&layout=compact&theme=dracula&langs_count=8&hide_border=true&border_radius=12"
+/>
+
 </div>
 
-###
+<br>
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/imbeatrizgomes/imbeatrizgomes/snake-output/snake.svg" alt="Snake animation" />
+<div align="center">
 
-###
+<img
+height="180"
+src="https://streak-stats.demolab.com?user=imbeatrizgomes&theme=dracula&hide_border=true"
+/>
+
+</div>
+
+---
+
+<h3 align="left">🐍 Contribuições</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/imbeatrizgomes/imbeatrizgomes/snake-output/snake.svg" alt="Snake animation"/>
+</p>
