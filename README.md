@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Ana Beatriz
 
-**`Desenvolvedora Full Stack`**
+**`Estudante de Ciência da Computação | Desenvolvedora Full Stack`**
 
 Me chamo Ana Beatriz, tenho 22 anos e sou natural de Fortaleza, Ceará.
 
@@ -10,21 +10,18 @@ Tenho interesse em desenvolvimento Full Stack, especialmente utilizando **Java, 
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/ana-beatriz-santos-gomes/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://maps.google.com/?q=Fortaleza,Ceará,Brasil" target="_blank">
+  <img src="https://custom-icon-badges.demolab.com/badge/Fortaleza-CE-6A5ACD?style=for-the-badge&logo=location&logoColor=white"/>
 </a>
 
 <a href="mailto:anabeatrizsantos3830@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/@anabeatrizsantos3830-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://wa.me/55SEUNUMERO" target="_blank">
-<img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<a href="https://www.linkedin.com/in/ana-beatriz-santos-gomes/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://discord.gg/SEULINK" target="_blank">
-<img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
 
 </p>
 
@@ -45,32 +42,36 @@ Tenho interesse em desenvolvimento Full Stack, especialmente utilizando **Java, 
 
 </p>
 
-<br>
-
 ---
 
 ## 📊 Estatísticas
 
-<p align="left">
+<table>
+<tr>
+<td>
 
 <img
 height="180"
 src="https://github-stats-extended.vercel.app/api?username=imbeatrizgomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
 />
 
+</td>
+
+<td>
+
 <img
 height="180"
-src="https://github-stats-extended.vercel.app/api/top-langs/?username=imbeatrizgomes&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=imbeatrizgomes&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true"
 />
 
-</p>
-
-<br clear="both"/>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🐍 Contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/imbeatrizgomes/imbeatrizgomes/snake-output/snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/imbeatrizgomes/imbeatrizgomes/snake-output/snake-dark.svg" alt="Snake animation"/>
 </p>
