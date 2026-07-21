@@ -14,7 +14,9 @@ Olá! Meu nome é **Ana Beatriz**, tenho **22 anos** e sou natural de **Fortalez
 
 Atualmente curso **Ciência da Computação** na **Universidade Estadual do Ceará (UECE)**.
 
-Tenho interesse em desenvolvimento **Full Stack**, principalmente utilizando **Java, Spring Boot, React e TypeScript**. Estou sempre buscando aprender novas tecnologias, desenvolver projetos e evoluir como desenvolvedora.
+Tenho interesse em desenvolvimento **Full Stack**, principalmente utilizando **Java, Spring Boot, React e TypeScript**.
+
+Estou sempre buscando aprender novas tecnologias, desenvolver projetos e evoluir como desenvolvedora.
 
 ## 🛠️ Linguagens e Ferramentas
 
@@ -49,15 +51,25 @@ Tenho interesse em desenvolvimento **Full Stack**, principalmente utilizando **J
 
 <div align="center">
 
-<img
-height="180"
-src="https://github-stats-extended.vercel.app/api?username=imbeatrizgomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
-/>
+<table>
+<tr>
+<td>
 
 <img
 height="180"
-src="https://github-stats-extended.vercel.app/api/top-langs/?username=imbeatrizgomes&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true"
-/>
+src="https://github-stats-extended.vercel.app/api?username=imbeatrizgomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+
+</td>
+
+<td>
+
+<img
+height="180"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=imbeatrizgomes&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
