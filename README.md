@@ -2,8 +2,10 @@
 
 **`Desenvolvedora Full Stack`**
 
-Me chamo Ana Beatriz, tenho 22 anos e sou natural de Fortaleza, Ceará. 
-Atualmente, curso **Ciência da Computação** na **Universidade Estadual do Ceará (UECE)**. 
+Me chamo Ana Beatriz, tenho 22 anos e sou natural de Fortaleza, Ceará.
+
+Atualmente, curso **Ciência da Computação** na **Universidade Estadual do Ceará (UECE)**.
+
 Tenho interesse em desenvolvimento Full Stack, especialmente utilizando **Java, Spring Boot, React e TypeScript**, e estou sempre buscando aprender novas tecnologias e construir projetos.
 
 <p align="left">
@@ -43,6 +45,8 @@ Tenho interesse em desenvolvimento Full Stack, especialmente utilizando **Java, 
 
 </p>
 
+<br>
+
 ---
 
 ## 📊 Estatísticas
@@ -63,6 +67,12 @@ src="https://github-stats-extended.vercel.app/api/top-langs/?username=imbeatrizg
 
 <br clear="both"/>
 
-<p align="left">
+---
+
+## 🐍 Contribuições
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/imbeatrizgomes/imbeatrizgomes/snake-output/snake.svg" alt="Snake animation"/>
 
 </p>
